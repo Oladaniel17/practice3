@@ -221,7 +221,9 @@
 .singleservice:hover .overlay{
     opacity: 1;
 }
-
+/* {
+    
+} */
 .servicdesc{
     width: 80%;
     position: absolute;
